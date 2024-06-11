@@ -13,3 +13,7 @@ Si bien este dato es estimativo, podría afirmarse que las condiciones preferenc
 - En segundo lugar, y a propósito del convertion rate mencionado, puede verse una mejora creciente en los 3 meses bajo análisis. Mientras en feb/24 el mismo rondaba el 0,42%, en abr/24 escaló al 0,91%. Esto tuvo un correlato, a su vez, sobre las ventas, las cuales se incrementaron un 360% en términos nominales en el mismo período.
 
 - Por último, resulta interesante analizar la correlación entre el precio de venta y las visitas recibidas por los productos. Podríamos afirmar que el precio de venta no estaría fijado **únicamente** en virtud de las visitas, ya que la correlación es baja. Por decirlo de otra manera: la cantidad de visitas recibidas por un producto no tendría implicancias inmediatas en el aumento del precio del producto, al menos de lo que se desprende del análisis de esta pequeña muestra de casos.
+
+## Dashboard
+
+Para acceder al dashboard que contiene el resumen del análisis, dirigirse a este [link](https://public.tableau.com/app/profile/ignacio.titimoli/viz/MeliDashboard/Dashboard?publish=yes).
