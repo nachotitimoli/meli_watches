@@ -1,0 +1,39 @@
+{
+    "results": [
+
+        {"item_id":"MLA1240020760","date_from":"2024-02-01T00:00:00Z","date_to":"2024-02-29T00:00:00Z","total_visits":4402,"visits_detail":[{"company":"mercadolibre","quantity":4402}]},
+        {"item_id":"MLA1240020760","date_from":"2024-03-01T00:00:00Z","date_to":"2024-03-31T00:00:00Z","total_visits":4805,"visits_detail":[{"company":"mercadolibre","quantity":4805}]},
+        {"item_id":"MLA1240020760","date_from":"2024-04-01T00:00:00Z","date_to":"2024-04-30T00:00:00Z","total_visits":789,"visits_detail":[{"company":"mercadolibre","quantity":789}]},
+        {"item_id":"MLA1660923058","date_from":"2024-02-01T00:00:00Z","date_to":"2024-02-29T00:00:00Z","total_visits":1949,"visits_detail":[{"company":"mercadolibre","quantity":1949}]},
+        {"item_id":"MLA1660923058","date_from":"2024-03-01T00:00:00Z","date_to":"2024-03-31T00:00:00Z","total_visits":2975,"visits_detail":[{"company":"mercadolibre","quantity":2975}]},
+        {"item_id":"MLA1660923058","date_from":"2024-04-01T00:00:00Z","date_to":"2024-04-30T00:00:00Z","total_visits":2665,"visits_detail":[{"company":"mercadolibre","quantity":2665}]},
+        {"item_id":"MLA1618134820","date_from":"2024-02-01T00:00:00Z","date_to":"2024-02-29T00:00:00Z","total_visits":24,"visits_detail":[{"company":"mercadolibre","quantity":24}]},
+        {"item_id":"MLA1618134820","date_from":"2024-03-01T00:00:00Z","date_to":"2024-03-31T00:00:00Z","total_visits":3,"visits_detail":[{"company":"mercadolibre","quantity":3}]},
+        {"item_id":"MLA1618134820","date_from":"2024-04-01T00:00:00Z","date_to":"2024-04-30T00:00:00Z","total_visits":18,"visits_detail":[{"company":"mercadolibre","quantity":18}]},
+        {"item_id":"MLA1702569300","date_from":"2024-02-01T00:00:00Z","date_to":"2024-02-29T00:00:00Z","total_visits":0,"visits_detail":[]},
+        {"item_id":"MLA1702569300","date_from":"2024-03-01T00:00:00Z","date_to":"2024-03-31T00:00:00Z","total_visits":1053,"visits_detail":[{"company":"mercadolibre","quantity":1053}]},
+        {"item_id":"MLA1702569300","date_from":"2024-04-01T00:00:00Z","date_to":"2024-04-30T00:00:00Z","total_visits":4688,"visits_detail":[{"company":"mercadolibre","quantity":4688}]},
+        {"item_id":"MLA1361794043","date_from":"2024-02-01T00:00:00Z","date_to":"2024-02-29T00:00:00Z","total_visits":109,"visits_detail":[{"company":"mercadolibre","quantity":109}]},
+        {"item_id":"MLA1361794043","date_from":"2024-03-01T00:00:00Z","date_to":"2024-03-31T00:00:00Z","total_visits":821,"visits_detail":[{"company":"mercadolibre","quantity":821}]},
+        {"item_id":"MLA1361794043","date_from":"2024-04-01T00:00:00Z","date_to":"2024-04-30T00:00:00Z","total_visits":2179,"visits_detail":[{"company":"mercadolibre","quantity":2179}]},
+        {"item_id":"MLA1395639417","date_from":"2024-02-01T00:00:00Z","date_to":"2024-02-29T00:00:00Z","total_visits":3110,"visits_detail":[{"company":"mercadolibre","quantity":3110}]},
+        {"item_id":"MLA1395639417","date_from":"2024-03-01T00:00:00Z","date_to":"2024-03-31T00:00:00Z","total_visits":2312,"visits_detail":[{"company":"mercadolibre","quantity":2312}]},
+        {"item_id":"MLA1395639417","date_from":"2024-04-01T00:00:00Z","date_to":"2024-04-30T00:00:00Z","total_visits":271,"visits_detail":[{"company":"mercadolibre","quantity":271}]},
+        {"item_id":"MLA1396892459","date_from":"2024-02-01T00:00:00Z","date_to":"2024-02-29T00:00:00Z","total_visits":2084,"visits_detail":[{"company":"mercadolibre","quantity":2084}]},
+        {"item_id":"MLA1396892459","date_from":"2024-03-01T00:00:00Z","date_to":"2024-03-31T00:00:00Z","total_visits":1792,"visits_detail":[{"company":"mercadolibre","quantity":1792}]},
+        {"item_id":"MLA1396892459","date_from":"2024-04-01T00:00:00Z","date_to":"2024-04-30T00:00:00Z","total_visits":1577,"visits_detail":[{"company":"mercadolibre","quantity":1577}]},
+        {"item_id":"MLA1731413510","date_from":"2024-02-01T00:00:00Z","date_to":"2024-02-29T00:00:00Z","total_visits":0,"visits_detail":[]},
+        {"item_id":"MLA1731413510","date_from":"2024-03-01T00:00:00Z","date_to":"2024-03-31T00:00:00Z","total_visits":0,"visits_detail":[]},
+        {"item_id":"MLA1731413510","date_from":"2024-04-01T00:00:00Z","date_to":"2024-04-30T00:00:00Z","total_visits":1152,"visits_detail":[{"company":"mercadolibre","quantity":1152}]},
+        {"item_id":"MLA1367061911","date_from":"2024-02-01T00:00:00Z","date_to":"2024-02-29T00:00:00Z","total_visits":2972,"visits_detail":[{"company":"mercadolibre","quantity":2972}]},
+        {"item_id":"MLA1367061911","date_from":"2024-03-01T00:00:00Z","date_to":"2024-03-31T00:00:00Z","total_visits":2440,"visits_detail":[{"company":"mercadolibre","quantity":2440}]},
+        {"item_id":"MLA1367061911","date_from":"2024-04-01T00:00:00Z","date_to":"2024-04-30T00:00:00Z","total_visits":2627,"visits_detail":[{"company":"mercadolibre","quantity":2627}]},
+        {"item_id":"MLA1744842938","date_from":"2024-02-01T00:00:00Z","date_to":"2024-02-29T00:00:00Z","total_visits":0,"visits_detail":[]},
+        {"item_id":"MLA1744842938","date_from":"2024-03-01T00:00:00Z","date_to":"2024-03-31T00:00:00Z","total_visits":0,"visits_detail":[]},
+        {"item_id":"MLA1744842938","date_from":"2024-04-01T00:00:00Z","date_to":"2024-04-30T00:00:00Z","total_visits":259,"visits_detail":[{"company":"mercadolibre","quantity":259}]},
+        {"item_id":"MLA1622811266","date_from":"2024-02-01T00:00:00Z","date_to":"2024-02-29T00:00:00Z","total_visits":0,"visits_detail":[]},
+        {"item_id":"MLA1622811266","date_from":"2024-03-01T00:00:00Z","date_to":"2024-03-31T00:00:00Z","total_visits":74,"visits_detail":[{"company":"mercadolibre","quantity":74}]},
+        {"item_id":"MLA1622811266","date_from":"2024-04-01T00:00:00Z","date_to":"2024-04-30T00:00:00Z","total_visits":1340,"visits_detail":[{"company":"mercadolibre","quantity":1340}]}
+
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "results": [
+
+        {"item_id":"MLA1240020760","date_from":"2024-02-01T00:00:00Z","date_to":"2024-04-30T00:00:00Z","total_visits":9996,"visits_detail":[{"company":"mercadolibre","quantity":9996}]},
+        {"item_id":"MLA1660923058","date_from":"2024-02-01T00:00:00Z","date_to":"2024-04-30T00:00:00Z","total_visits":7589,"visits_detail":[{"company":"mercadolibre","quantity":7589}]},
+        {"item_id":"MLA1618134820","date_from":"2024-02-01T00:00:00Z","date_to":"2024-04-30T00:00:00Z","total_visits":45,"visits_detail":[{"company":"mercadolibre","quantity":45}]},
+        {"item_id":"MLA1702569300","date_from":"2024-02-01T00:00:00Z","date_to":"2024-04-30T00:00:00Z","total_visits":5741,"visits_detail":[{"company":"mercadolibre","quantity":5741}]},
+        {"item_id":"MLA1361794043","date_from":"2024-02-01T00:00:00Z","date_to":"2024-04-30T00:00:00Z","total_visits":3109,"visits_detail":[{"company":"mercadolibre","quantity":3109}]},
+        {"item_id":"MLA1395639417","date_from":"2024-02-01T00:00:00Z","date_to":"2024-04-30T00:00:00Z","total_visits":5693,"visits_detail":[{"company":"mercadolibre","quantity":5693}]},
+        {"item_id":"MLA1396892459","date_from":"2024-02-01T00:00:00Z","date_to":"2024-04-30T00:00:00Z","total_visits":5453,"visits_detail":[{"company":"mercadolibre","quantity":5453}]},
+        {"item_id":"MLA1731413510","date_from":"2024-02-01T00:00:00Z","date_to":"2024-04-30T00:00:00Z","total_visits":1152,"visits_detail":[{"company":"mercadolibre","quantity":1152}]},
+        {"item_id":"MLA1367061911","date_from":"2024-02-01T00:00:00Z","date_to":"2024-04-30T00:00:00Z","total_visits":8039,"visits_detail":[{"company":"mercadolibre","quantity":8039}]},
+        {"item_id":"MLA1744842938","date_from":"2024-02-01T00:00:00Z","date_to":"2024-04-30T00:00:00Z","total_visits":259,"visits_detail":[{"company":"mercadolibre","quantity":259}]},
+        {"item_id":"MLA1622811266","date_from":"2024-02-01T00:00:00Z","date_to":"2024-04-30T00:00:00Z","total_visits":1414,"visits_detail":[{"company":"mercadolibre","quantity":1414}]}
+
+    ]
+}
